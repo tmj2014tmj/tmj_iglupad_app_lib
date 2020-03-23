@@ -7,4 +7,10 @@ public class TestLib {
         return "AAA";
     }
 
+
+   public String  testBB()
+    {
+        return "BBB";
+    }
+
 }
